@@ -1,3 +1,9 @@
+//Luke Grube
+//Cmp 344
+//averages out week 1,2,3,4 and the average of the month
+//1/26/15
+
+
 function weeklyTemps() {
 	this.dataStore = [];
 	this.add = add;
